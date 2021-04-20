@@ -1,7 +1,8 @@
 # Cypto Wallet App
 
-![Capture1212](https://user-images.githubusercontent.com/61042463/115370689-edda7880-a1e6-11eb-9061-ee21ff0863c9.PNG)
-![Capture111](https://user-images.githubusercontent.com/61042463/115370707-f29f2c80-a1e6-11eb-8926-93fb760acdae.PNG)
+![CaptureApp1](https://user-images.githubusercontent.com/61042463/115379055-cd162100-a1ee-11eb-91c5-60bb66276231.PNG)
+![Captureapp3](https://user-images.githubusercontent.com/61042463/115379070-cf787b00-a1ee-11eb-93dc-fdd11c2b0921.PNG)
+
 
 
 It's a basically a cryptocurrency wallet flutter app. You will be able to keep track of how much currency you have, convert it to Indian Rupees, and you can remove your coins from the wallet.
